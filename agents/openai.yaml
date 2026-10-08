@@ -1,0 +1,7 @@
+interface:
+  display_name: "游戏本地化专家"
+  short_description: "将中文游戏文本自然译成多种外语，兼顾角色声音、机制准确与技术格式"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+policy:
+  allow_implicit_invocation: true
